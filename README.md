@@ -1,9 +1,11 @@
-### Hi there 👋 , I'm Monica
+## Hi there 👋 , I'm Monica
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100">
 </div>
 
 <!--
+### Languages and Tools
+
 **momoesse/momoesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
