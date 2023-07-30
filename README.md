@@ -3,6 +3,8 @@
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100">
 </div>
 
+🌱 I’m currently learning **React.js**
+
 <!--
 ### Languages and Tools
 
