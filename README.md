@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100">
 </div>
 
-- 🌱 I’m currently learning **React.js** 
+💻 Passionate front-end developer #aspiring full-stack #tech enthusiast
 
 ### :hammer_and_wrench: Languages and Tools
 <div>
